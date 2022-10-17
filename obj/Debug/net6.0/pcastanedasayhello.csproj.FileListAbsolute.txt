@@ -1,0 +1,15 @@
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedasayhello\bin\Debug\net6.0\pcastanedasayhello.exe
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedasayhello\bin\Debug\net6.0\pcastanedasayhello.deps.json
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedasayhello\bin\Debug\net6.0\pcastanedasayhello.runtimeconfig.json
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedasayhello\bin\Debug\net6.0\pcastanedasayhello.dll
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedasayhello\bin\Debug\net6.0\pcastanedasayhello.pdb
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedasayhello\obj\Debug\net6.0\pcastanedasayhello.csproj.AssemblyReference.cache
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedasayhello\obj\Debug\net6.0\pcastanedasayhello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedasayhello\obj\Debug\net6.0\pcastanedasayhello.AssemblyInfoInputs.cache
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedasayhello\obj\Debug\net6.0\pcastanedasayhello.AssemblyInfo.cs
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedasayhello\obj\Debug\net6.0\pcastanedasayhello.csproj.CoreCompileInputs.cache
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedasayhello\obj\Debug\net6.0\pcastanedasayhello.dll
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedasayhello\obj\Debug\net6.0\refint\pcastanedasayhello.dll
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedasayhello\obj\Debug\net6.0\pcastanedasayhello.pdb
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedasayhello\obj\Debug\net6.0\pcastanedasayhello.genruntimeconfig.cache
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedasayhello\obj\Debug\net6.0\ref\pcastanedasayhello.dll
