@@ -6,30 +6,45 @@
 string username;
 string userInput;
 bool run = false;
-
 while(!run)
 {
+    bool isAnswerValid = false;
+    bool replay = false;
     Console.WriteLine("Hello, what is your name?");
-
-    username = Console.ReadLine();
-
-    Console.WriteLine($"Nice to meet {username}");
+    while(!isAnswerValid)
+    {
+        username = Console.ReadLine();
+        bool isAlpha = username.All(Char.IsLetter);
+        if(isAlpha == false || string.IsNullOrEmpty(username))
+        {
+            Console.WriteLine("Invalid Entry!");
+            isAnswerValid = false;
+        }
+        else
+        {
+            Console.WriteLine($"Nice to meet {username}");
+            isAnswerValid = true;
+        }
+    }
     Console.WriteLine();
-
     Console.WriteLine("Would you like run this program again? (yes/no)");
-    userInput = Console.ReadLine();
-
-    if(userInput == "yes" || userInput == "y")
+    while(!replay)
     {
-        run = false;
-    }
-    else if(userInput == "no" || userInput == "n")
-    {
-        Console.WriteLine($"Goodbye {username}!");
-        run = true;
-    }
-    else
-    {
-        Console.WriteLine("Please enter yes or no!");
+        userInput = Console.ReadLine();
+        if(userInput == "yes" || userInput == "y")
+        {
+            replay = true;
+            run = false;
+        }
+        else if(userInput == "no" || userInput == "n")
+        {
+            Console.WriteLine($"Goodbye!");
+            replay = true;
+            run = true;
+        }
+        else
+        {
+            Console.WriteLine("Please enter yes or no!");
+        }
     }
 }
